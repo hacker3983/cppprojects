@@ -1,2 +1,2 @@
 # cppprojects
-My cpp projects while learning C++
+I'm a beginner in c++ still learning alot but i will post my projects
