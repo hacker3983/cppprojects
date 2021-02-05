@@ -7,7 +7,7 @@ Then the dns resolver displays the ip
 ```
 # Usage
 ```
-How to compile?
+How to compile and run?
 Open a terminal
 Type: gcc resolver.c && ./a.out google.com
 ```
