@@ -11,8 +11,8 @@ How to compile?
 Open a terminal
 Type: gcc resolver.c && ./a.out google.com
 ```
-Check the example below
-** Example 1**
+Check the examples below<br>
+** Example 1**<br>
 <img src="example2.jpg"/>
-** Example 2**
+** Example 2**<br>
 <img src="example.jpg"/>
