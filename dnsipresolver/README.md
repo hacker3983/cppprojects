@@ -12,7 +12,7 @@ Open a terminal
 Type: gcc resolver.c && ./a.out google.com
 ```
 Check the examples below<br>
-** Example 1**<br>
-<img src="example2.jpg"/>
-** Example 2**<br>
-<img src="example.jpg"/>
+<h1> Example 1</h1>
+<img src="example2.jpg">
+<h1> Example 2</h1>
+<img src="example.jpg">
