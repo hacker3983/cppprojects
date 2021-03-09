@@ -3,7 +3,7 @@ This chatapp is a multithreaded chatapp it cannot have multiple clients but it c
 I hope you guys like it you guys can try it out
 # Compiling server and executing
 ```py
-print("Hello, World!\n")
+print("Hello, World!")
 ```
 # Compiling client and executing
 
