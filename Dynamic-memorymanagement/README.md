@@ -27,3 +27,7 @@ int main() {
 }
 
 ```
+# Code
+<img src="https://cdn.discordapp.com/attachments/470253814235136044/823762510804811807/unknown.png" alt="code">
+# Compiling and running
+<img src="https://cdn.discordapp.com/attachments/470253814235136044/823762427874246656/unknown.png" alt="compilation">
