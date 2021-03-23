@@ -28,6 +28,6 @@ int main() {
 
 ```
 # Code
-![code]("https://cdn.discordapp.com/attachments/470253814235136044/823762510804811807/unknown.png")
+![code](https://cdn.discordapp.com/attachments/470253814235136044/823762510804811807/unknown.png)
 # Compiling and running
-![compilation]("https://cdn.discordapp.com/attachments/470253814235136044/823762427874246656/unknown.png")
+![compilation](https://cdn.discordapp.com/attachments/470253814235136044/823762427874246656/unknown.png)
