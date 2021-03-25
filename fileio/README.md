@@ -1,8 +1,8 @@
 # Fileio
-* Fileio is a library used to make files in c more easier
+`Fileio is a library used to make files in c more easier`
 
 # Raw code Examples:
-<p align="center">
+* 
 ```c
 #include <stdio.h>
 #include "fileio.h"
@@ -14,7 +14,6 @@ int main() {
 	return 0;
 }
 ```
-</p>
 
 # Examples:
 
