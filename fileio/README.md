@@ -2,7 +2,7 @@
 * Fileio is a library used to make files in c more easier
 
 # Raw code Examples:
-```c
+	```c
 #include <stdio.h>
 #include "fileio.h"
 
@@ -12,7 +12,7 @@ int main() {
 	close(f); // close the file
 	return 0;
 }
-```
+	```
 
 
 # Examples:
