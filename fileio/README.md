@@ -2,7 +2,7 @@
 `Fileio is a library used to make files in c more easier`
 
 # Raw code Examples:
-* 
+* Example 1:
 ```c
 #include <stdio.h>
 #include "fileio.h"
@@ -19,3 +19,10 @@ int main() {
 
 ![code](https://cdn.discordapp.com/attachments/709031059593101413/824458614944038953/unknown.png)
 ![run](https://cdn.discordapp.com/attachments/709031059593101413/824459075466035220/unknown.png)
+
+# How to compile:
+```
+gcc <file> -o <executable name>
+./<exectuable name>
+```
+
