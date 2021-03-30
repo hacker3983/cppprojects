@@ -10,7 +10,7 @@
 
 # How to compile and execute
 ```bash
-# Compiling - using the -o option is not neccessary because by default gcc produces a.out executeble
+# Compiling - using the -o option is not necessary because by default gcc produces a.out executable
 gcc fakevirus-downloader.c -o <executablename>
 # executing - if you did not use -o option you can do ./a.out to run the executable
 ./<executablename>
