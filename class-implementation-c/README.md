@@ -3,7 +3,6 @@
 
 # Examples of compiling and executing
 ![COMPILE_EXECUTE](https://media.discordapp.net/attachments/470253814235136044/835264739491577886/unknown.png)
-```html
 <span style="color:yellow">gcc</span> main.c<br/>
 ./a.out
-```
+
