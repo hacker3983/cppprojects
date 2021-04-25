@@ -6,3 +6,4 @@
 * find public ip address - uses socket, connects to api.ipify.org, shows your public ip address
 
 # Examples
+![image](https://user-images.githubusercontent.com/54384337/116010563-9ff1b600-a5d4-11eb-87c7-797b2c1c5d86.png)
