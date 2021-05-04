@@ -12,4 +12,4 @@ gcc main.c -o <output>
 ```
 
 # Todo
-Mathematical operators - make it better
+Symbols problem - Make it identify symbols when trying to find invalid tokens
